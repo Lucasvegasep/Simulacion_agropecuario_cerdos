@@ -1,2 +1,3 @@
-# Proyecto de simulación de un sistema agropecuario para evaluar flujos futuros de efectivo de acuerdo a variaciones productivas.
-Este repositorio es para ir avanzando en mi proyecto de desarrollo de un sistema de simulación productiva en la industria Agropecuaria para proyección de flujos de caja considerando flujos productivos y capacidades de producción.
+# Simulation project of an agricultural system to evaluate future cash flows according to production variations.
+This repository is for advancing my project to develop a productive simulation system in the agricultural industry
+for cash flow projection considering productive flows and production capacities.
